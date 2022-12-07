@@ -1,0 +1,41 @@
+nav {
+
+background-color:rgb(205, 219, 226);   
+
+color: rgb(5, 44, 63);
+
+}
+
+a {
+    color: rgb(5, 44, 63);
+}
+
+.cor {
+    background-color: rgb(172, 203, 218);   
+}
+.t1{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.t2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+ }
+ .t3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body a:link {
+    text-decoration: none;
+    color: rgb(5, 44, 63);
+}
+
+body a:visited {
+    text-decoration: none;
+    color: rgb(5, 44, 63); 
+}
+
+body a:hover {
+    color: rgb(13, 117, 168);
+}
